@@ -1,0 +1,29 @@
+G:\Articals\C# Dotnet\SlideShow App\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.exe.config
+G:\Articals\C# Dotnet\SlideShow App\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.exe
+G:\Articals\C# Dotnet\SlideShow App\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.pdb
+G:\Articals\C# Dotnet\SlideShow App\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.csprojResolveAssemblyReference.cache
+G:\Articals\C# Dotnet\SlideShow App\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.Form1.resources
+G:\Articals\C# Dotnet\SlideShow App\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.Properties.Resources.resources
+G:\Articals\C# Dotnet\SlideShow App\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.csproj.GenerateResource.Cache
+G:\Articals\C# Dotnet\SlideShow App\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.exe
+G:\Articals\C# Dotnet\SlideShow App\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.pdb
+C:\Users\shaza\OneDrive\Desktop\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.exe.config
+C:\Users\shaza\OneDrive\Desktop\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.exe
+C:\Users\shaza\OneDrive\Desktop\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.pdb
+C:\Users\shaza\OneDrive\Desktop\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.exe
+C:\Users\shaza\OneDrive\Desktop\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.pdb
+C:\Users\shaza\OneDrive\Desktop\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.csprojResolveAssemblyReference.cache
+C:\Users\shaza\OneDrive\Desktop\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.Form1.resources
+C:\Users\shaza\OneDrive\Desktop\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.Properties.Resources.resources
+C:\Users\shaza\OneDrive\Desktop\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.csproj.GenerateResource.Cache
+C:\Users\Ahmad\Desktop\Project\Assignment # 3 Class\Hafsa\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.exe.config
+C:\Users\Ahmad\Desktop\Project\Assignment # 3 Class\Hafsa\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.exe
+C:\Users\Ahmad\Desktop\Project\Assignment # 3 Class\Hafsa\SlideShowApp\SlideShowApp\bin\Debug\SlideShowApp.pdb
+C:\Users\Ahmad\Desktop\Project\Assignment # 3 Class\Hafsa\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\Project\Assignment # 3 Class\Hafsa\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmad\Desktop\Project\Assignment # 3 Class\Hafsa\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.Form1.resources
+C:\Users\Ahmad\Desktop\Project\Assignment # 3 Class\Hafsa\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\Project\Assignment # 3 Class\Hafsa\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\Project\Assignment # 3 Class\Hafsa\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Project\Assignment # 3 Class\Hafsa\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.exe
+C:\Users\Ahmad\Desktop\Project\Assignment # 3 Class\Hafsa\SlideShowApp\SlideShowApp\obj\Debug\SlideShowApp.pdb
